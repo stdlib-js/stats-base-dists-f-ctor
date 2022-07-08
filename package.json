@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-dists-f-ctor",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "F distribution constructor.",
   "license": "Apache-2.0",
   "author": {
