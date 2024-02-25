@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import F from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-f-ctor@deno/mod.js';
+import F from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-f-ctor@v0.2.1-deno/mod.js';
 ```
 
 #### F( \[d1, d2] )
@@ -259,7 +259,7 @@ y = f.quantile( 1.9 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import F from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-f-ctor@deno/mod.js';
+import F from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-f-ctor@v0.2.1-deno/mod.js';
 
 var f = new F( 3.0, 5.0 );
 
