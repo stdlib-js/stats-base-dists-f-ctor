@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-02-08)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`6335415`](https://github.com/stdlib-js/stdlib/commit/633541558ed3c1707e9aaa7874ab76043ff329af) - **bench:** refactor random number generation in `stats/base/dists/f` [(#4921)](https://github.com/stdlib-js/stdlib/pull/4921) _(by Karan Anand, stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Karan Anand
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-29)
