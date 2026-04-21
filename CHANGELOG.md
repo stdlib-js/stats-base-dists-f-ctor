@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-31)
+## Unreleased (2026-04-21)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`187e141`](https://github.com/stdlib-js/stdlib/commit/187e141098635f0f2edf0f6f1289e06473ae7fcd) - **chore:** add missing `npm` engine constraint to `stats/base/dists/*/ctor` [(#11686)](https://github.com/stdlib-js/stdlib/pull/11686) _(by Philipp Burckhardt)_
 -   [`c265420`](https://github.com/stdlib-js/stdlib/commit/c265420bbb10e78261bf3d1beebe2f5764f0a5c5) - **bench:** update random value generation for `stats/base/dists/f/ctor` [(#10373)](https://github.com/stdlib-js/stdlib/pull/10373) _(by Lokesh Ranjan)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Lokesh Ranjan
+-   Philipp Burckhardt
 
 </section>
 
